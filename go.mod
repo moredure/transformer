@@ -1,4 +1,4 @@
-module github.com/moredure/transform
+module github.com/moredure/transformer
 
 go 1.15
 
